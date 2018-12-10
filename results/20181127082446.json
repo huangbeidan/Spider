@@ -1,0 +1,1317 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.snopes.com/",
+            
+    "totalResults": "466",
+            
+    "searchTerms": "site:https://www.snopes.com/",
+            
+    "count": 10,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ],
+      
+  "nextPage": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.snopes.com/",
+            
+    "totalResults": "466",
+            
+    "searchTerms": "site:https://www.snopes.com/",
+            
+    "count": 10,
+            
+    "startIndex": 11,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.307909,
+      
+  "formattedSearchTime": "0.31",
+      
+  "totalResults": "466",
+      
+  "formattedTotalResults": "466"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Snopes.com | The definitive fact-checking site and reference source ...",
+         
+   "htmlTitle": "Snopes.com | The definitive fact-checking site and reference source ...",
+         
+   "link": "https://www.snopes.com/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "The definitive Internet reference source for urban legends,
+          folklore,
+          myths,
+          rumors\n,
+          and misinformation.",
+         
+   "htmlSnippet": "The definitive Internet reference source for urban legends,
+          folklore,
+          myths,
+          rumors\u003cbr\u003e\n,
+          and misinformation.",
+         
+   "cacheId": "TW5yTHkFzMUJ",
+         
+   "formattedUrl": "https://www.snopes.com/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRvXjqJwkPZr8Z20tBdXHiE_LpFCTcYpSfoLrGk1hmoNwxtTJpNLQnHBc"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "website",
+                  
+      "og:title": "Snopes.com",
+                  
+      "og:description": "The definitive Internet reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "og:url": "https://www.snopes.com/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "The definitive Internet reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "twitter:title": "Snopes.com | The definitive fact-checking site and reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Snopes.com | Page 2 of 1435 | The definitive fact-checking site and ...",
+         
+   "htmlTitle": "Snopes.com | Page 2 of 1435 | The definitive fact-checking site and ...",
+         
+   "link": "https://www.snopes.com/page/2/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "The definitive Internet reference source for urban legends,
+          folklore,
+          myths,
+          rumors\n,
+          and misinformation.",
+         
+   "htmlSnippet": "The definitive Internet reference source for urban legends,
+          folklore,
+          myths,
+          rumors\u003cbr\u003e\n,
+          and misinformation.",
+         
+   "cacheId": "ptaxaNpAKj8J",
+         
+   "formattedUrl": "https://www.snopes.com/page/2/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/page/2/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRvXjqJwkPZr8Z20tBdXHiE_LpFCTcYpSfoLrGk1hmoNwxtTJpNLQnHBc"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "website",
+                  
+      "og:title": "Snopes.com",
+                  
+      "og:description": "The definitive Internet reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "og:url": "https://www.snopes.com/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "The definitive Internet reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "twitter:title": "Snopes.com | Page 2 of 1435 | The definitive fact-checking site and reference source for urban legends,
+                   folklore,
+                   myths,
+                   rumors,
+                   and misinformation.",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/tachyon/2017/02/snopes-front-page-og-image.png?fit=1200,
+                  630"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "What's New",
+         
+   "htmlTitle": "What&#39;s New",
+         
+   "link": "https://www.snopes.com/whats-new/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "All the latest rumors,
+          urban legends,
+          myths and misinformation gathered together \nin one nifty list.",
+         
+   "htmlSnippet": "All the latest rumors,
+          urban legends,
+          myths and misinformation gathered together \u003cbr\u003e\nin one nifty list.",
+         
+   "cacheId": "xlQ6Dv6VtSkJ",
+         
+   "formattedUrl": "https://www.snopes.com/whats-new/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/whats-new/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "259",
+                  
+      "height": "194",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPT6SDId_ziPGEtCA3r85r-WUBczbHlhylJuXehU2sIC_0X5-fxyaMm-He"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "article",
+                  
+      "og:title": "What's New on Snopes.com",
+                  
+      "og:description": "All the latest rumors,
+                   urban legends,
+                   myths and misinformation gathered together in one nifty list.",
+                  
+      "og:url": "https://www.snopes.com/whats-new/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "article:publisher": "https://www.facebook.com/snopes",
+                  
+      "article:section": "Overview",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2015/06/wn-1-1024x252.png",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2015/06/wn-1-1024x252.png",
+                  
+      "og:image:width": "1024",
+                  
+      "og:image:height": "252",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "All the latest rumors,
+                   urban legends,
+                   myths and misinformation gathered together in one nifty list.",
+                  
+      "twitter:title": "What's New on Snopes.com",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2015/06/wn-1.png",
+                  
+      "twitter:creator": "@snopes",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/content/themes/snopes/dist/images/lazyload-placeholder.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "AP Posts Archive | Snopes.com",
+         
+   "htmlTitle": "AP Posts Archive | Snopes.com",
+         
+   "link": "https://www.snopes.com/ap/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Associated Press. Stories reported by the Associated Press and curated by the \nSnopes editorial team. Latest Associated Press ...",
+         
+   "htmlSnippet": "Associated Press. Stories reported by the Associated Press and curated by the \u003cbr\u003e\nSnopes editorial team. Latest Associated Press&nbsp;...",
+         
+   "cacheId": "yocEzUFhILsJ",
+         
+   "formattedUrl": "https://www.snopes.com/ap/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/ap/",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "object",
+                  
+      "og:title": "AP Posts Archive | Snopes.com",
+                  
+      "og:url": "https://www.snopes.com/ap/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:title": "AP Posts Archive | Snopes.com",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "News Posts Archive | Snopes.com",
+         
+   "htmlTitle": "News Posts Archive | Snopes.com",
+         
+   "link": "https://www.snopes.com/news/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Dear Reader,
+         . Snopes.com has long been engaged in the battle against \nmisinformation,
+          an effort we could not sustain without support from our audience.",
+         
+   "htmlSnippet": "Dear Reader,
+         . Snopes.com has long been engaged in the battle against \u003cbr\u003e\nmisinformation,
+          an effort we could not sustain without support from our audience.",
+         
+   "cacheId": "YSFwd0z2vCYJ",
+         
+   "formattedUrl": "https://www.snopes.com/news/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/news/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "308",
+                  
+      "height": "164",
+                  
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLd5iCjpO1ktkt3rCg29TcugNiEdwA1BaHjGNV6mFmtFVZn3OD5LTzBvTZ"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "object",
+                  
+      "og:title": "News Posts Archive | Snopes.com",
+                  
+      "og:url": "https://www.snopes.com/news/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:title": "News Posts Archive | Snopes.com",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/content/themes/snopes/dist/images/logo-main.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "FACT CHECK: McMoose",
+         
+   "htmlTitle": "FACT CHECK: McMoose",
+         
+   "link": "https://www.snopes.com/fact-check/mcmoose/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Fauxtography: Photograph shows a moose poking its snout into a McDonald's \ndrive-through window in Madawaska,
+          Maine.",
+         
+   "htmlSnippet": "Fauxtography: Photograph shows a moose poking its snout into a McDonald&#39;s \u003cbr\u003e\ndrive-through window in Madawaska,
+          Maine.",
+         
+   "cacheId": "9O2KdLjdmOoJ",
+         
+   "formattedUrl": "https://www.snopes.com/fact-check/mcmoose/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/fact-check/mcmoose/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "265",
+                  
+      "height": "190",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXcD6QPSyQ54_UVLeDyH8bzzUCEZia5nYwex0C8iZoMzvXr1cIShZiucI"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "article",
+                  
+      "og:title": "FACT CHECK: McMoose",
+                  
+      "og:description": "Fauxtography: Photograph shows a moose poking its snout into a McDonald's drive-through window in Madawaska,
+                   Maine.",
+                  
+      "og:url": "https://www.snopes.com/fact-check/mcmoose/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "article:publisher": "https://www.facebook.com/snopes",
+                  
+      "article:tag": "animals",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "Fauxtography: Photograph shows a moose poking its snout into a McDonald's drive-through window in Madawaska,
+                   Maine.",
+                  
+      "twitter:title": "FACT CHECK: McMoose",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "twitter:creator": "@snopes",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/content/themes/snopes/dist/images/default-thumb.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "FACT CHECK: FALSE: Check for Facebook Hacks with '@[
+            4.0
+         ]
+'",
+         
+   "htmlTitle": "FACT CHECK: FALSE: Check for Facebook Hacks with &#39;@[
+            4.0
+         ]
+&#39;",
+         
+   "link": "https://www.snopes.com/fact-check/zoinksberg/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Rumor: Facebook users can check if their accounts have been hacked by \ninserting '@[
+            4.0
+         ]
+' into posts.",
+         
+   "htmlSnippet": "Rumor: Facebook users can check if their accounts have been hacked by \u003cbr\u003e\ninserting &#39;@[
+            4.0
+         ]
+&#39; into posts.",
+         
+   "cacheId": "mTDQHoKDOi8J",
+         
+   "formattedUrl": "https://www.snopes.com/fact-check/zoinksberg/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/fact-check/zoinksberg/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "265",
+                  
+      "height": "190",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXcD6QPSyQ54_UVLeDyH8bzzUCEZia5nYwex0C8iZoMzvXr1cIShZiucI"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "article",
+                  
+      "og:title": "FACT CHECK: FALSE: Check for Facebook Hacks with '@[
+                     4.0
+                  ]
+'",
+                  
+      "og:description": "Rumor: Facebook users can check if their accounts have been hacked by inserting '@[
+                     4.0
+                  ]
+' into posts.",
+                  
+      "og:url": "https://www.snopes.com/fact-check/zoinksberg/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "article:publisher": "https://www.facebook.com/snopes",
+                  
+      "article:tag": "ASP Article",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "Rumor: Facebook users can check if their accounts have been hacked by inserting '@[
+                     4.0
+                  ]
+' into posts.",
+                  
+      "twitter:title": "FACT CHECK: FALSE: Check for Facebook Hacks with '@[
+                     4.0
+                  ]
+'",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "twitter:creator": "@snopes",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/content/themes/snopes/dist/images/default-thumb.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "FACT CHECK: Most Racist Decal Ever",
+         
+   "htmlTitle": "FACT CHECK: Most Racist Decal Ever",
+         
+   "link": "https://www.snopes.com/fact-check/decalcification/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Photograph purportedly shows a truck in Texas bearing an anti-Obama decal.",
+         
+   "htmlSnippet": "Photograph purportedly shows a truck in Texas bearing an anti-Obama decal.",
+         
+   "cacheId": "kqp5nsCH6sYJ",
+         
+   "formattedUrl": "https://www.snopes.com/fact-check/decalcification/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/fact-check/decalcification/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "276",
+                  
+      "height": "183",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3mhlrvTmMQRlBJbD9t0ta2pfATXa-ILv5Q-wmmBMtWODYlVZdXSU5lK4x"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "article",
+                  
+      "og:title": "FACT CHECK: Most Racist Decal Ever",
+                  
+      "og:description": "Photograph purportedly shows a truck in Texas bearing an anti-Obama decal.",
+                  
+      "og:url": "https://www.snopes.com/fact-check/decalcification/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "article:publisher": "https://www.facebook.com/snopes",
+                  
+      "article:tag": "ASP Article",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:description": "Photograph purportedly shows a truck in Texas bearing an anti-Obama decal.",
+                  
+      "twitter:title": "FACT CHECK: Most Racist Decal Ever",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "twitter:creator": "@snopes",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/tachyon/images/photos/politics/graphics/decal.jpg"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "billboard Archives | Snopes.com",
+         
+   "htmlTitle": "billboard Archives | Snopes.com",
+         
+   "link": "https://www.snopes.com/tag/billboard/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Dear Reader,
+         . Snopes.com has long been engaged in the battle against \nmisinformation,
+          an effort we could not sustain without support from our audience.",
+         
+   "htmlSnippet": "Dear Reader,
+         . Snopes.com has long been engaged in the battle against \u003cbr\u003e\nmisinformation,
+          an effort we could not sustain without support from our audience.",
+         
+   "cacheId": "WtBGHuunXv0J",
+         
+   "formattedUrl": "https://www.snopes.com/tag/billboard/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/tag/billboard/",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "object",
+                  
+      "og:title": "billboard Archives | Snopes.com",
+                  
+      "og:url": "https://www.snopes.com/tag/billboard/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:title": "billboard Archives | Snopes.com",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Fact Checks Archive | Snopes.com",
+         
+   "htmlTitle": "Fact Checks Archive | Snopes.com",
+         
+   "link": "https://www.snopes.com/fact-check/",
+         
+   "displayLink": "www.snopes.com",
+         
+   "snippet": "Was the 'Illegal Alien Mom with Kids' Photograph Staged? 26 November 2018 - \"\nThe illegal alien mother 'fleeing' from the border wall was all a lie. It was a ...",
+         
+   "htmlSnippet": "Was the &#39;Illegal Alien Mom with Kids&#39; Photograph Staged? 26 November 2018 - &quot;\u003cbr\u003e\nThe illegal alien mother &#39;fleeing&#39; from the border wall was all a lie. It was a&nbsp;...",
+         
+   "cacheId": "jrP8tIuK13EJ",
+         
+   "formattedUrl": "https://www.snopes.com/fact-check/",
+         
+   "htmlFormattedUrl": "https://www.snopes.com/fact-check/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "259",
+                  
+      "height": "194",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPT6SDId_ziPGEtCA3r85r-WUBczbHlhylJuXehU2sIC_0X5-fxyaMm-He"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1,
+                   shrink-to-fit=no",
+                  
+      "og:locale": "en_US",
+                  
+      "og:type": "object",
+                  
+      "og:title": "Fact Checks Archive | Snopes.com",
+                  
+      "og:url": "https://www.snopes.com/fact-check/",
+                  
+      "og:site_name": "Snopes.com",
+                  
+      "fb:app_id": "1637816429839563",
+                  
+      "og:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:secure_url": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png?fit=1200,
+                  630",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:title": "Fact Checks Archive | Snopes.com",
+                  
+      "twitter:site": "@snopes",
+                  
+      "twitter:image": "https://www.snopes.com/tachyon/2017/02/snopes-og-image-default.png",
+                  
+      "msapplication-tileimage": "https://www.snopes.com/tachyon/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,
+                  270"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.snopes.com/content/themes/snopes/dist/images/lazyload-placeholder.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}

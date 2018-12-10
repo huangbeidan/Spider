@@ -1,0 +1,1137 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.mediamatters.org/",
+            
+    "totalResults": "41",
+            
+    "searchTerms": "site:https://www.mediamatters.org/",
+            
+    "count": 10,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ],
+      
+  "nextPage": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.mediamatters.org/",
+            
+    "totalResults": "41",
+            
+    "searchTerms": "site:https://www.mediamatters.org/",
+            
+    "count": 10,
+            
+    "startIndex": 11,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.295559,
+      
+  "formattedSearchTime": "0.30",
+      
+  "totalResults": "41",
+      
+  "formattedTotalResults": "41"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Media Matters for America |",
+         
+   "htmlTitle": "Media Matters for America |",
+         
+   "link": "https://www.mediamatters.org/",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Media Matters for America is a web-based,
+          not-for-profit,
+          501(c)(3) progressive \nresearch and information center dedicated to comprehensively monitoring,
+          ...",
+         
+   "htmlSnippet": "Media Matters for America is a web-based,
+          not-for-profit,
+          501(c)(3) progressive \u003cbr\u003e\nresearch and information center dedicated to comprehensively monitoring,
+         &nbsp;...",
+         
+   "cacheId": "ukla7RVqiw0J",
+         
+   "formattedUrl": "https://www.mediamatters.org/",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "301",
+                  
+      "height": "167",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe_u4fWJEVsP4mwEqNbfxfTJeJJ-s8cZqGcB7STzBG0JsBpi5oNfzLMDYv"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:type": "website",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:url": "https://www.mediamatters.org/",
+                  
+      "og:title": "Media Matters for America",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/",
+                  
+      "twitter:title": "Media Matters for America"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cloudfront.mediamatters.org/static/uploader/image/2018/11/13/blb-still1.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Video | Media Matters for America",
+         
+   "htmlTitle": "Video | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/video",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Laura Ingraham says Trump should defy court orders after judge blocks \nexecutive order curbing asylum claims. November 20,
+          2018 10:36 AM EST ...",
+         
+   "htmlSnippet": "Laura Ingraham says Trump should defy court orders after judge blocks \u003cbr\u003e\nexecutive order curbing asylum claims. November 20,
+          2018 10:36 AM EST&nbsp;...",
+         
+   "cacheId": "M4QuIBW1veAJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/video",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/video",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/video",
+                  
+      "og:title": "Video",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/video",
+                  
+      "twitter:title": "Video",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Blog | Media Matters for America",
+         
+   "htmlTitle": "Blog | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/blog",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Secretary of Education Betsy DeVos appeared on Fox Business Network for a \nsoftball interview during which the host,
+          Maria Bartiromo,
+          failed to ask a single ...",
+         
+   "htmlSnippet": "Secretary of Education Betsy DeVos appeared on Fox Business Network for a \u003cbr\u003e\nsoftball interview during which the host,
+          Maria Bartiromo,
+          failed to ask a single&nbsp;...",
+         
+   "cacheId": "AnPSXNDVuMcJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/blog",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/blog",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/blog",
+                  
+      "og:title": "Blog",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/blog",
+                  
+      "twitter:title": "Blog",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Issues | Media Matters for America",
+         
+   "htmlTitle": "Issues | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/issues",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Issues. In covering and correcting conservative misinformation in the media,
+          \nMedia Matters covers a diverse range of issues,
+          from climate change to the NRA,
+         \n ...",
+         
+   "htmlSnippet": "Issues. In covering and correcting conservative misinformation in the media,
+          \u003cbr\u003e\nMedia Matters covers a diverse range of issues,
+          from climate change to the NRA,
+         \u003cbr\u003e\n&nbsp;...",
+         
+   "cacheId": "v9igoFPecIoJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/issues",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/issues",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/issues",
+                  
+      "og:title": "Issues",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/issues",
+                  
+      "twitter:title": "Issues",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779921",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent \u003cem\u003eFox &amp; Friends\u003c/em\u003e guest cites Bible to justify \ndenying asylum requests from individuals in caravan. Your message *.",
+         
+   "htmlSnippet": "Page to be sent &lt;em&gt;Fox &amp;amp; Friends&lt;/em&gt; guest cites Bible to justify \u003cbr\u003e\ndenying asylum requests from individuals in caravan. Your message *.",
+         
+   "cacheId": "SLz5g32TEg4J",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779921",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779921",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779921",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779921",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779966",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent Fox Business host's interview with Betsy DeVos ignores rule \nchanges for campus sexual assault and failures on student debt forgiveness.",
+         
+   "htmlSnippet": "Page to be sent Fox Business host&#39;s interview with Betsy DeVos ignores rule \u003cbr\u003e\nchanges for campus sexual assault and failures on student debt forgiveness.",
+         
+   "cacheId": "Z9i6tZASIs8J",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779966",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779966",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779966",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779966",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779941",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent Fox Business panelist touts that GM employees are \"being laid \noff” in a “robust job market\". Your message *. Image CAPTCHA. What code is in ...",
+         
+   "htmlSnippet": "Page to be sent Fox Business panelist touts that GM employees are &quot;being laid \u003cbr\u003e\noff” in a “robust job market&quot;. Your message *. Image CAPTCHA. What code is in&nbsp;...",
+         
+   "cacheId": "5VCRatP7Y-gJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779941",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779941",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779941",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779941",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779926",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent \u003cem\u003eFox &amp; Friends\u003c/em\u003e parrots opaque DHS stats to \nfearmonger about “criminals” in caravan. Your message *. Image CAPTCHA.",
+         
+   "htmlSnippet": "Page to be sent &lt;em&gt;Fox &amp;amp; Friends&lt;/em&gt; parrots opaque DHS stats to \u003cbr\u003e\nfearmonger about “criminals” in caravan. Your message *. Image CAPTCHA.",
+         
+   "cacheId": "-29bmmGLdr0J",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779926",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779926",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779926",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779926",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779961",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent Fox host defends Sen. Hyde-Smith's \"public hanging\" remarks: \"\nShe said 'public hangings,
+         ' ... which refer to lawful executions\". Your message *.",
+         
+   "htmlSnippet": "Page to be sent Fox host defends Sen. Hyde-Smith&#39;s &quot;public hanging&quot; remarks: &quot;\u003cbr\u003e\nShe said &#39;public hangings,
+         &#39; ... which refer to lawful executions&quot;. Your message *.",
+         
+   "cacheId": "4FvAt5Rhy5cJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779961",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779961",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779961",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779961",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Send by email | Media Matters for America",
+         
+   "htmlTitle": "Send by email | Media Matters for America",
+         
+   "link": "https://www.mediamatters.org/printmail/779956",
+         
+   "displayLink": "www.mediamatters.org",
+         
+   "snippet": "Page to be sent Sinclair's latest “must-run” defends tear-gassing migrant children,
+          \nwarns of an \"attempted invasion”. Your message *. Image CAPTCHA.",
+         
+   "htmlSnippet": "Page to be sent Sinclair&#39;s latest “must-run” defends tear-gassing migrant children,
+          \u003cbr\u003e\nwarns of an &quot;attempted invasion”. Your message *. Image CAPTCHA.",
+         
+   "cacheId": "rDm4k1IHIEQJ",
+         
+   "formattedUrl": "https://www.mediamatters.org/printmail/779956",
+         
+   "htmlFormattedUrl": "https://www.mediamatters.org/printmail/779956",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "26595441166",
+                  
+      "fb:app_id": "1920452524841158",
+                  
+      "abstract": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "fb:admins": "10900082",
+                  
+      "og:site_name": "Media Matters for America",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.mediamatters.org/printmail/779956",
+                  
+      "og:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media.",
+                  
+      "og:image:url": "http://cloudfront.mediamatters.org/static/uploader/image/2016/12/21/media-matters-fb.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "951",
+                  
+      "og:image:height": "497",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@mmfa",
+                  
+      "twitter:site:id": "13493302",
+                  
+      "twitter:url": "https://www.mediamatters.org/printmail/779956",
+                  
+      "twitter:title": "Send by email",
+                  
+      "twitter:description": "Media Matters for America is a web-based,
+                   not-for-profit,
+                   501(c)(3) progressive research and information center dedicated to comprehensively monitoring,
+                   analyzing,
+                   and correcting conservative misinformation in the U.S. media."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}

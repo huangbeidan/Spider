@@ -1,0 +1,1155 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.newsbusters.org/",
+            
+    "totalResults": "72",
+            
+    "searchTerms": "site:https://www.newsbusters.org/",
+            
+    "count": 10,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ],
+      
+  "nextPage": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.newsbusters.org/",
+            
+    "totalResults": "72",
+            
+    "searchTerms": "site:https://www.newsbusters.org/",
+            
+    "count": 10,
+            
+    "startIndex": 11,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.273659,
+      
+  "formattedSearchTime": "0.27",
+      
+  "totalResults": "72",
+      
+  "formattedTotalResults": "72"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "NewsBusters | Exposing and Combating Liberal Media Bias",
+         
+   "htmlTitle": "NewsBusters | Exposing and Combating Liberal Media Bias",
+         
+   "link": "https://www.newsbusters.org/",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "Watch Max Boot Suffer a Breakdown Upon Being Owned by Conservative · \nShepard Smith Lectures Conservatives on 'Extreme' Climate Change · Hypocrisy:\n ...",
+         
+   "htmlSnippet": "Watch Max Boot Suffer a Breakdown Upon Being Owned by Conservative &middot; \u003cbr\u003e\nShepard Smith Lectures Conservatives on &#39;Extreme&#39; Climate Change &middot; Hypocrisy:\u003cbr\u003e\n&nbsp;...",
+         
+   "cacheId": "2v9iLl-Upx0J",
+         
+   "formattedUrl": "https://www.newsbusters.org/",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "300",
+                  
+      "height": "168",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAgpqNLvYR7iONmlwPpodguB_-y5Um-hS7CMRQVL79Iy2d7GWuhA531W9k"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "website",
+                  
+      "og:url": "https://www.newsbusters.org/front",
+                  
+      "og:title": "NewsBusters",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/front",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cdn.newsbusters.org/styles/featured_image/s3/images/early_start_with_christine_romans_and_dave_briggs_-_05_20_49_am.jpg?itok=UyDaEEQX"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Latest Posts | NewsBusters",
+         
+   "htmlTitle": "Latest Posts | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/blogs",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "The day before the Mississippi Senate runoff the liberal media trying desperately \nto drag Democrat Mike Espy over the finish line by dragging GOP Senator ...",
+         
+   "htmlSnippet": "The day before the Mississippi Senate runoff the liberal media trying desperately \u003cbr\u003e\nto drag Democrat Mike Espy over the finish line by dragging GOP Senator&nbsp;...",
+         
+   "cacheId": "Cy9-b9xGzjkJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/blogs",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/blogs",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "220",
+                  
+      "height": "123",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSapK5lxOaqY5By59gTwqbyVCwV9bLPytuUbunsJpuLelp0TiOs0hGxc0Q"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.newsbusters.org/blogs",
+                  
+      "og:title": "Latest Posts",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/blogs",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cdn.newsbusters.org/styles/blog_list_image/s3/images/2018-11-26-nbc-nn-calling-hyde-smith-a-racist-1.png?itok=XQOm95G2"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "NewsBusters Video | NewsBusters",
+         
+   "htmlTitle": "NewsBusters Video | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/video",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "[
+            See NewsBusters for more.
+         ]
+ As the networks decried the Trump administration's \nuse of tear gas on illegal immigrants trying to storm the border,
+          none of them on ...",
+         
+   "htmlSnippet": "[
+            See NewsBusters for more.
+         ]
+ As the networks decried the Trump administration&#39;s \u003cbr\u003e\nuse of tear gas on illegal immigrants trying to storm the border,
+          none of them on&nbsp;...",
+         
+   "cacheId": "Z4eDZRjNhVAJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/video",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/video",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "220",
+                  
+      "height": "123",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnSm5JKgNLugrcg8P_kW2SRqK_DokPwBLI8VqlrWWL2TlwonMZeYPmzw"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.newsbusters.org/video",
+                  
+      "og:title": "NewsBusters Video",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/video",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.newsbusters.org/sites/default/files/styles/blog_list_image/public/video_embed_field_thumbnails/mrctv/526201.png?itok=s2QFdBJY"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "More Posts | NewsBusters",
+         
+   "htmlTitle": "More Posts | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/more-posts",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "Old Left-stream media biases sometimes die hard. Deadspin blogger Dave \nMcKenna is still making an issue of Supreme Court Justice Brett Kavanaugh's ...",
+         
+   "htmlSnippet": "Old Left-stream media biases sometimes die hard. Deadspin blogger Dave \u003cbr\u003e\nMcKenna is still making an issue of Supreme Court Justice Brett Kavanaugh&#39;s&nbsp;...",
+         
+   "cacheId": "YJ9oICYjDnwJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/more-posts",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/more-posts",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "220",
+                  
+      "height": "123",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSViVmuia6YbmiELvP7LA7s14i47zaI-oqsexXouDRZaUZkMmbrdlBUAb0"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.newsbusters.org/more-posts",
+                  
+      "og:title": "More Posts",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/more-posts",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cdn.newsbusters.org/styles/blog_list_image/s3/images/Mainstream-Scream-580x280-June2013.jpg?itok=ELPglKRS"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Randy Hall | NewsBusters",
+         
+   "htmlTitle": "Randy Hall | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/author/randy-hall",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "Every now and then,
+          anchor Shepard Smith seems to feel the need to distance \nhimself from most of the other on-air personalities on the Fox News Channel,
+          and\n ...",
+         
+   "htmlSnippet": "Every now and then,
+          anchor Shepard Smith seems to feel the need to distance \u003cbr\u003e\nhimself from most of the other on-air personalities on the Fox News Channel,
+          and\u003cbr\u003e\n&nbsp;...",
+         
+   "cacheId": "GBAAyPgi_SMJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/author/randy-hall",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/author/randy-hall",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "foaf:name": "Randy Hall",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "profile",
+                  
+      "og:url": "https://www.newsbusters.org/author/randy-hall",
+                  
+      "og:title": "Randy Hall",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/author/randy-hall",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Kristine Marsh | NewsBusters",
+         
+   "htmlTitle": "Kristine Marsh | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/author/kristine-marsh",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "Monday at the Hot Topics table,
+          Senator Bernie Sanders joined the hosts of The \nView for an interview that was supposed to be about his book,
+          but turned out ...",
+         
+   "htmlSnippet": "Monday at the Hot Topics table,
+          Senator Bernie Sanders joined the hosts of The \u003cbr\u003e\nView for an interview that was supposed to be about his book,
+          but turned out&nbsp;...",
+         
+   "cacheId": "n57AAFPKrXgJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/author/kristine-marsh",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/author/kristine-marsh",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "275",
+                  
+      "height": "183",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxRtb63B2N4FYHe6njaFuMu6iMY37cIGT60ZgM23vJk1yg0JaTzbyz4fsd"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "foaf:name": "Kristine Marsh",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "profile",
+                  
+      "og:title": "Kristine Marsh",
+                  
+      "og:url": "https://www.newsbusters.org/author/kristine-marsh",
+                  
+      "og:image": "https://cdn.newsbusters.org/pictures/picture-321-1467129182.jpg",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:url": "https://www.newsbusters.org/author/kristine-marsh",
+                  
+      "twitter:title": "NewsBusters",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cdn.newsbusters.org/pictures/picture-321-1467129182.jpg"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Kristen Welker | NewsBusters",
+         
+   "htmlTitle": "Kristen Welker | NewsBusters",
+         
+   "link": "https://www.newsbusters.org/journalists/kristen-welker",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "The day before the Mississippi Senate runoff the liberal media trying desperately \nto drag Democrat Mike Espy over the finish line by dragging GOP Senator ...",
+         
+   "htmlSnippet": "The day before the Mississippi Senate runoff the liberal media trying desperately \u003cbr\u003e\nto drag Democrat Mike Espy over the finish line by dragging GOP Senator&nbsp;...",
+         
+   "cacheId": "CTejk9BQBckJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/journalists/kristen-welker",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/journalists/kristen-welker",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "rating": "general",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:title": "Kristen Welker",
+                  
+      "og:url": "https://www.newsbusters.org/journalists/kristen-welker",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:title": "Kristen Welker",
+                  
+      "twitter:url": "https://www.newsbusters.org/journalists/kristen-welker",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Rep. Trey Gowdy: The Remedy for Leaks Is a 'Videotaped Deposition'",
+         
+   "htmlTitle": "Rep. Trey Gowdy: The Remedy for Leaks Is a &#39;Videotaped Deposition&#39;",
+         
+   "link": "https://www.newsbusters.org/video/rep-trey-gowdy-remedy-leaks-videotaped-deposition",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "Rep. Trey Gowdy (R-S.C.),
+          chairman of the House Oversight and Government \nReform Committee,
+          told CBS's “Face the Nation” on Sunday defended the ...",
+         
+   "htmlSnippet": "Rep. Trey Gowdy (R-S.C.),
+          chairman of the House Oversight and Government \u003cbr\u003e\nReform Committee,
+          told CBS&#39;s “Face the Nation” on Sunday defended the&nbsp;...",
+         
+   "cacheId": "8eMaHiDwR54J",
+         
+   "formattedUrl": "https://www.newsbusters.org/.../rep-trey-gowdy-remedy-leaks-videotaped- deposition",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/.../rep-trey-gowdy-remedy-leaks-videotaped- deposition",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "news_keywords": ",
+                  ,
+                  ,
+                  ,
+                  ",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:title": "Rep. Trey Gowdy: The Remedy for Leaks Is a ‘Videotaped Deposition’",
+                  
+      "og:url": "https://www.newsbusters.org/video/rep-trey-gowdy-remedy-leaks-videotaped-deposition",
+                  
+      "og:description": "Rep. Trey Gowdy (R-S.C.),
+                   chairman of the House Oversight and Government Reform Committee,
+                   told CBS’s “Face the Nation” on Sunday defended the committee’s decision to subpoena former FBI Director James Comey to testify during a closed-door hearing. Read Full Story",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:creator": "@",
+                  
+      "twitter:title": "Rep. Trey Gowdy: The Remedy for Leaks Is a ‘Videotaped Deposition",
+                  
+      "twitter:url": "https://www.newsbusters.org/video/rep-trey-gowdy-remedy-leaks-videotaped-deposition",
+                  
+      "twitter:description": "Rep. Trey Gowdy (R-S.C.),
+                   chairman of the House Oversight and Government Reform Committee,
+                   told CBS’s “Face the Nation” on Sunday defended the committee’s decision to subpoena former FBI Director",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "Item": [
+               
+     {
+                  
+      "title": "Rep. Trey Gowdy: The Remedy for Leaks Is a ‘Videotaped Deposition’",
+                  
+      "encoded": "Rep. Trey Gowdy (R-S.C.),
+                   chairman of the House Oversight and Government Reform Committee,
+                   told CBS’s “Face the Nation” on Sunday defended the committee’s decision to subpoena former..."
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Klobuchar: Trump Has Chosen to 'Weaponize' Crisis at the Border",
+         
+   "htmlTitle": "Klobuchar: Trump Has Chosen to &#39;Weaponize&#39; Crisis at the Border",
+         
+   "link": "https://www.newsbusters.org/video/klobuchar-trump-has-chosen-weaponize-crisis-border",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "https://www.cnsnews.com/news/article/susan-jones/trump-monday-we-will-close-\nborder-permanently-if-need-be.",
+         
+   "htmlSnippet": "https://www.cnsnews.com/news/article/susan-jones/trump-monday-we-will-close-\u003cbr\u003e\nborder-permanently-if-need-be.",
+         
+   "cacheId": "z03R9nbDjVAJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/.../klobuchar-trump-has-chosen-weaponize- crisis-border",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/.../klobuchar-trump-has-chosen-weaponize- crisis-border",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "news_keywords": ",
+                  ,
+                  ,
+                  ,
+                  ",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:title": "Klobuchar: Trump Has Chosen to 'Weaponize' Crisis at the Border",
+                  
+      "og:url": "https://www.newsbusters.org/video/klobuchar-trump-has-chosen-weaponize-crisis-border",
+                  
+      "og:description": "https://www.cnsnews.com/news/article/susan-jones/trump-monday-we-will-close-border-permanently-if-need-be",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:creator": "@",
+                  
+      "twitter:title": "Klobuchar: Trump Has Chosen to 'Weaponize' Crisis at the Border",
+                  
+      "twitter:url": "https://www.newsbusters.org/video/klobuchar-trump-has-chosen-weaponize-crisis-border",
+                  
+      "twitter:description": "https://www.cnsnews.com/news/article/susan-jones/trump-monday-we-will-close-border-permanently-if-need-be",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "Item": [
+               
+     {
+                  
+      "title": "Klobuchar: Trump Has Chosen to 'Weaponize' Crisis at the Border",
+                  
+      "encoded": "https://www.cnsnews.com/news/article/susan-jones/trump-monday-we-will-close-border-permanently-if-need-be"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Cable News Erects Wall of Falsehoods Around Caravan",
+         
+   "htmlTitle": "Cable News Erects Wall of Falsehoods Around Caravan",
+         
+   "link": "https://www.newsbusters.org/video/cable-news-erects-wall-falsehoods-around-caravan",
+         
+   "displayLink": "www.newsbusters.org",
+         
+   "snippet": "To read the full article,
+          visit NewsBusters.",
+         
+   "htmlSnippet": "To read the full article,
+          visit NewsBusters.",
+         
+   "cacheId": "AlCbUDO1F3IJ",
+         
+   "formattedUrl": "https://www.newsbusters.org/.../cable-news-erects-wall-falsehoods-around- caravan",
+         
+   "htmlFormattedUrl": "https://www.newsbusters.org/.../cable-news-erects-wall-falsehoods-around- caravan",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "318",
+                  
+      "height": "159",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvwc38VB0NjI3SDmKXzWFtSXwr6ReHjKDWtCWs103ODXNQvXheQLfwS__0"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "news_keywords": ",
+                  ,
+                  ,
+                  ,
+                  ",
+                  
+      "og:site_name": "NewsBusters",
+                  
+      "og:type": "article",
+                  
+      "og:title": "Cable News Erects Wall of Falsehoods Around Caravan",
+                  
+      "og:url": "https://www.newsbusters.org/video/cable-news-erects-wall-falsehoods-around-caravan",
+                  
+      "og:description": "To read the full article,
+                   visit NewsBusters.",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@newsbusters",
+                  
+      "twitter:creator": "@",
+                  
+      "twitter:title": "Cable News Erects Wall of Falsehoods Around Caravan",
+                  
+      "twitter:url": "https://www.newsbusters.org/video/cable-news-erects-wall-falsehoods-around-caravan",
+                  
+      "twitter:description": "To read the full article,
+                   visit NewsBusters.",
+                  
+      "theme-color": "#ee7624",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes",
+                  
+      "apple-mobile-web-app-status-bar-style": "default",
+                  
+      "apple-mobile-web-app-title": "NewsBusters"
+     
+               }
+
+    
+            ],
+            
+    "Item": [
+               
+     {
+                  
+      "title": "Cable News Erects Wall of Falsehoods Around Caravan",
+                  
+      "encoded": "To read the full article,
+                   visit NewsBusters."
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://cdn.newsbusters.org/styles/sidebar/s3/images/jfkassassination.png?itok=PEjUDGRk"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}

@@ -1,0 +1,1253 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.propublica.org/",
+            
+    "totalResults": "6",
+            
+    "searchTerms": "site:https://www.propublica.org/",
+            
+    "count": 6,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.351033,
+      
+  "formattedSearchTime": "0.35",
+      
+  "totalResults": "6",
+      
+  "formattedTotalResults": "6"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Producer,
+          Visual Investigations — ProPublica",
+         
+   "htmlTitle": "Producer,
+          Visual Investigations — ProPublica",
+         
+   "link": "https://www.propublica.org/jobs/producer-visual-investigations",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "ProPublica is looking for a producer to expand the skillset of our in-house video \nteam. Over the past few years,
+          we've seen the growing importance of video,
+          ...",
+         
+   "htmlSnippet": "ProPublica is looking for a producer to expand the skillset of our in-house video \u003cbr\u003e\nteam. Over the past few years,
+          we&#39;ve seen the growing importance of video,
+         &nbsp;...",
+         
+   "cacheId": "eoSZt0CLzaMJ",
+         
+   "formattedUrl": "https://www.propublica.org/jobs/producer-visual-investigations",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/jobs/producer-visual-investigations",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVrgkHpsGxgs1oJk21nXdV0eo5NmhQpQ46wg5wesThByFhBZqaQ_n4UxHb"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "headline": "Producer,
+                   Visual Investigations",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/jobs/producer-visual-investigations",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "Producer,
+                   Visual Investigations",
+                  
+      "dcterms.description": "ProPublica is an independent,
+                   non-profit newsroom that produces investigative journalism in the public interest.",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/jobs/producer-visual-investigations",
+                  
+      "og:title": "Producer,
+                   Visual Investigations — ProPublica",
+                  
+      "og:description": "ProPublica is an independent,
+                   non-profit newsroom that produces investigative journalism in the public interest.",
+                  
+      "og:image": "https://assets.propublica.org/2017-pp-open-graph-1200x630.jpg",
+                  
+      "og:image:type": "image/jpeg",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "Producer,
+                   Visual Investigations — ProPublica",
+                  
+      "twitter:description": "ProPublica is an independent,
+                   non-profit newsroom that produces investigative journalism in the public interest.",
+                  
+      "twitter:image": "https://assets.propublica.org/2017-pp-open-graph-1200x630.jpg",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/2017-pp-open-graph-1200x630.jpg"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "An Anti-Vaxxer's New Crusade — ProPublica",
+         
+   "htmlTitle": "An Anti-Vaxxer&#39;s New Crusade — ProPublica",
+         
+   "link": "https://www.propublica.org/article/david-ayoub-an-anti-vaxxer-new-crusade",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "Dr. David Ayoub used to be active in the anti-vaccination movement. Now he's \nchallenging mainstream science again — as an expert witness for accused ...",
+         
+   "htmlSnippet": "Dr. David Ayoub used to be active in the anti-vaccination movement. Now he&#39;s \u003cbr\u003e\nchallenging mainstream science again — as an expert witness for accused&nbsp;...",
+         
+   "cacheId": "qcL06R-OAagJ",
+         
+   "formattedUrl": "https://www.propublica.org/.../david-ayoub-an-anti-vaxxer-new-crusade",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/.../david-ayoub-an-anti-vaxxer-new-crusade",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTR1S6uufKg_Ew-4RwOI8TO4VjXpx6BMTpQb9uCo6FSUmGof1jkjjUH8K"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "author": "David Armstrong",
+                  
+      "datepublished": "2018-11-27",
+                  
+      "headline": "An Anti-Vaxxer’s New Crusade",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/article/david-ayoub-an-anti-vaxxer-new-crusade",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "An Anti-Vaxxer’s New Crusade",
+                  
+      "dcterms.subject": "mainstream,
+                   science,
+                   expert,
+                   witness,
+                   child,
+                   david,
+                   ayoub,
+                   active,
+                   anti-vaccination,
+                   movement,
+                   he’s,
+                   abusers",
+                  
+      "dcterms.contributor": "David Armstrong",
+                  
+      "dcterms.date": "2018-11-27",
+                  
+      "dcterms.description": "Dr. David Ayoub used to be active in the anti-vaccination movement. Now he’s challenging mainstream science again — as an expert witness for accused child…",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/article/david-ayoub-an-anti-vaxxer-new-crusade",
+                  
+      "og:title": "An Anti-Vaxxer’s New Crusade — ProPublica",
+                  
+      "og:description": "Dr. David Ayoub used to be active in the anti-vaccination movement. Now he’s challenging mainstream science again — as an expert witness for accused child abusers.",
+                  
+      "og:image": "https://assets.propublica.org/images/articles/20181127-ayoub-lead-1200x630.jpg?1543341516",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "An Anti-Vaxxer’s New Crusade — ProPublica",
+                  
+      "twitter:description": "Dr. David Ayoub used to be active in the anti-vaccination movement. Now he’s challenging mainstream science again — as an expert witness for accused child abusers.",
+                  
+      "twitter:image": "https://assets.propublica.org/images/articles/20181127-ayoub-lead-1200x630.jpg?1543341516",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/images/articles/20181127-ayoub-lead-1200x630.jpg?1543341516"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Sanitation Salvage,
+          Troubled Garbage Hauler,
+          Surrenders ...",
+         
+   "htmlTitle": "Sanitation Salvage,
+          Troubled Garbage Hauler,
+          Surrenders ...",
+         
+   "link": "https://www.propublica.org/article/sanitation-salvage-troubled-garbage-hauler-surrenders-operating-license",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "In a letter sent to New York City regulators,
+          lawyers for the company said it would \ncease operations “forthwith.”",
+         
+   "htmlSnippet": "In a letter sent to New York City regulators,
+          lawyers for the company said it would \u003cbr\u003e\ncease operations “forthwith.”",
+         
+   "cacheId": "PVQpjSDI8HIJ",
+         
+   "formattedUrl": "https://www.propublica.org/.../sanitation-salvage-troubled-garbage-hauler- surrenders-operating-license",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/.../sanitation-salvage-troubled-garbage-hauler- surrenders-operating-license",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp01JZEWjAxnclmnYZv4hmDsJcQv0eaP26jnrwZt8jhjX85-nz9x9PMus-"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "author": "Kiera Feldman",
+                  
+      "datepublished": "2018-11-27",
+                  
+      "headline": "Sanitation Salvage,
+                   Troubled Garbage Hauler,
+                   Surrenders…",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/article/sanitation-salvage-troubled-garbage-hauler-surrenders-operating-license",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "Sanitation Salvage,
+                   Troubled Garbage Hauler,
+                   Surrenders…",
+                  
+      "dcterms.subject": "in,
+                  a,
+                  letter,
+                  sent,
+                  to,
+                  new,
+                  york,
+                  city,
+                  regulators,
+                  ,
+                  lawyers,
+                  for,
+                  the,
+                  company,
+                  said,
+                  it,
+                  would,
+                  cease,
+                  operations,
+                  “forthwith.”",
+                  
+      "dcterms.contributor": "Kiera Feldman",
+                  
+      "dcterms.date": "2018-11-27",
+                  
+      "dcterms.description": "In a letter sent to New York City regulators,
+                   lawyers for the company said it would cease operations “forthwith.”",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/article/sanitation-salvage-troubled-garbage-hauler-surrenders-operating-license",
+                  
+      "og:title": "Sanitation Salvage,
+                   Troubled Garbage Hauler,
+                   Surrenders Operating License — ProPublica",
+                  
+      "og:description": "In a letter sent to New York City regulators,
+                   lawyers for the company said it would cease operations “forthwith.”",
+                  
+      "og:image": "https://assets.propublica.org/images/articles/20180824-sanitation-salvage-1200x630.jpg?1543360865",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "Sanitation Salvage,
+                   Troubled Garbage Hauler,
+                   Surrenders Operating License — ProPublica",
+                  
+      "twitter:description": "In a letter sent to New York City regulators,
+                   lawyers for the company said it would cease operations “forthwith.”",
+                  
+      "twitter:image": "https://assets.propublica.org/images/articles/20180824-sanitation-salvage-1200x630.jpg?1543360865",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/images/articles/20180824-sanitation-salvage-1200x630.jpg?1543360865"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Elkhart,
+          Indiana,
+          Police Chief Suspended for 30 Days… — ProPublica",
+         
+   "htmlTitle": "Elkhart,
+          Indiana,
+          Police Chief Suspended for 30 Days… — ProPublica",
+         
+   "link": "https://www.propublica.org/article/elkhart-indiana-police-chief-ed-windbigler-suspended-following-release-of-beating-video",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "The mayor disciplined the chief after revelations by the South Bend Tribune and \nProPublica about the city's troubled police force. But the mayor made no…",
+         
+   "htmlSnippet": "The mayor disciplined the chief after revelations by the South Bend Tribune and \u003cbr\u003e\nProPublica about the city&#39;s troubled police force. But the mayor made no…",
+         
+   "cacheId": "MKBLrAhgjKAJ",
+         
+   "formattedUrl": "https://www.propublica.org/.../elkhart-indiana-police-chief-ed-windbigler- suspended-following-release-of-beating-video",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/.../elkhart-indiana-police-chief-ed-windbigler- suspended-following-release-of-beating-video",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpznJthTTfzph05s4I-16e6UvZk9Xu9v3Ukydm2ZyjDnBj6ro0Y-uxxMjh"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "author": "Christian Sheckler,
+                  Ken Armstrong",
+                  
+      "datepublished": "2018-11-27",
+                  
+      "headline": "Elkhart,
+                   Indiana,
+                   Police Chief Suspended for 30 Days…",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/article/elkhart-indiana-police-chief-ed-windbigler-suspended-following-release-of-beating-video",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "Elkhart,
+                   Indiana,
+                   Police Chief Suspended for 30 Days…",
+                  
+      "dcterms.subject": "city’s,
+                   chief,
+                   mayor,
+                   civilian,
+                   chair,
+                   tribune,
+                   propublica,
+                   oversight,
+                   people,
+                   revelations,
+                   troubled,
+                   commission,
+                   announcement,
+                   police,
+                   wonder",
+                  
+      "dcterms.contributor": "Christian Sheckler,
+                  Ken Armstrong",
+                  
+      "dcterms.date": "2018-11-27",
+                  
+      "dcterms.description": "The mayor disciplined the chief after revelations by the South Bend Tribune and ProPublica about the city’s troubled police force. But the mayor made no…",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/article/elkhart-indiana-police-chief-ed-windbigler-suspended-following-release-of-beating-video",
+                  
+      "og:title": "Elkhart,
+                   Indiana,
+                   Police Chief Suspended for 30 Days Following Release of Beating Video — ProPublica",
+                  
+      "og:description": "The mayor disciplined the chief after revelations by the South Bend Tribune and ProPublica about the city’s troubled police force. But the mayor made no public announcement,
+                   leaving people,
+                   including the chair of the city’s civilian oversight commission,
+                   to wonder where the chief was.",
+                  
+      "og:image": "https://assets.propublica.org/images/articles/20181126-windbigler-1200x630.jpg?1543360775",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "Elkhart,
+                   Indiana,
+                   Police Chief Suspended for 30 Days Following Release of Beating Video — ProPublica",
+                  
+      "twitter:description": "The mayor disciplined the chief after revelations by the South Bend Tribune and ProPublica about the city’s troubled police force. But the mayor made no public announcement,
+                   leaving people,
+                   including the chair of the city’s civilian oversight commission,
+                   to wonder where the chief was.",
+                  
+      "twitter:image": "https://assets.propublica.org/images/articles/20181126-windbigler-1200x630.jpg?1543360775",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/images/articles/20181126-windbigler-1200x630.jpg?1543360775"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "A Defendant Shows Up in Immigration Court by Himself. He's 6.",
+         
+   "htmlTitle": "A Defendant Shows Up in Immigration Court by Himself. He&#39;s 6.",
+         
+   "link": "https://www.propublica.org/article/6-year-old-in-immigration-court-by-himself-zero-tolerance-family-separation",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "Wilder Hilario Maldonado Cabrera was the youngest defendant on the juvenile \ndocket that day,
+          and he was one of the last children left in government custody ...",
+         
+   "htmlSnippet": "Wilder Hilario Maldonado Cabrera was the youngest defendant on the juvenile \u003cbr\u003e\ndocket that day,
+          and he was one of the last children left in government custody&nbsp;...",
+         
+   "cacheId": "Mz6-e5Y89DIJ",
+         
+   "formattedUrl": "https://www.propublica.org/.../6-year-old-in-immigration-court-by-himself- zero-tolerance-family-separation",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/.../6-year-old-in-immigration-court-by-himself- zero-tolerance-family-separation",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_ZZ8R-C3Fv0WjpzChvPxA_dDSS8qlIWbQR_7MhDp2TBjoQ1Xkt4u59P9E"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "author": "Eva Ruth Moravec,
+                  Ginger Thompson",
+                  
+      "datepublished": "2018-11-27",
+                  
+      "headline": "A Defendant Shows Up in Immigration Court by Himself.…",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/article/6-year-old-in-immigration-court-by-himself-zero-tolerance-family-separation",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "A Defendant Shows Up in Immigration Court by Himself.…",
+                  
+      "dcterms.subject": "docket,
+                   juvenile,
+                   last,
+                   defendant,
+                   children,
+                   cabrera,
+                   government,
+                   maldonado,
+                   custody,
+                   hilario,
+                   zero-tolerance,
+                   wilder,
+                   policy",
+                  
+      "dcterms.contributor": "Eva Ruth Moravec,
+                  Ginger Thompson",
+                  
+      "dcterms.date": "2018-11-27",
+                  
+      "dcterms.description": "Wilder Hilario Maldonado Cabrera was the youngest defendant on the juvenile docket that day,
+                   and he was one of the last children left in government custody who…",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/article/6-year-old-in-immigration-court-by-himself-zero-tolerance-family-separation",
+                  
+      "og:title": "A Defendant Shows Up in Immigration Court by Himself. He’s 6. — ProPublica",
+                  
+      "og:description": "Wilder Hilario Maldonado Cabrera was the youngest defendant on the juvenile docket that day,
+                   and he was one of the last children left in government custody who had been affected by the zero-tolerance policy.",
+                  
+      "og:image": "https://assets.propublica.org/images/articles/20181127-border-separations-wilder-1200x630.jpg?1543359729",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "A Defendant Shows Up in Immigration Court by Himself. He’s 6. — ProPublica",
+                  
+      "twitter:description": "Wilder Hilario Maldonado Cabrera was the youngest defendant on the juvenile docket that day,
+                   and he was one of the last children left in government custody who had been affected by the zero-tolerance policy.",
+                  
+      "twitter:image": "https://assets.propublica.org/images/articles/20181127-border-separations-wilder-1200x630.jpg?1543359729",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/images/articles/20181127-border-separations-wilder-1200x630.jpg?1543359729"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Families Are Still Being Separated at the Border,
+          Months ...",
+         
+   "htmlTitle": "Families Are Still Being Separated at the Border,
+          Months ...",
+         
+   "link": "https://www.propublica.org/article/border-patrol-families-still-being-separated-at-border-after-zero-tolerance-immigration-policy-reversed",
+         
+   "displayLink": "www.propublica.org",
+         
+   "snippet": "Immigration lawyers say border agents are again removing children from their \nparents. The explanation? They're protecting kids from criminal dads and moms.",
+         
+   "htmlSnippet": "Immigration lawyers say border agents are again removing children from their \u003cbr\u003e\nparents. The explanation? They&#39;re protecting kids from criminal dads and moms.",
+         
+   "cacheId": "iymuh2aFDHEJ",
+         
+   "formattedUrl": "https://www.propublica.org/.../border-patrol-families-still-being-separated-at- border-after-zero-tolerance-immigration-policy-reversed",
+         
+   "htmlFormattedUrl": "https://www.propublica.org/.../border-patrol-families-still-being-separated-at- border-after-zero-tolerance-immigration-policy-reversed",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7yoBozpeYbot6X7RStN8uKrD1HLkzBqr4wC-N4WBqUQSfuh-qZHBP4-wk"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "referrer": "no-referrer-when-downgrade",
+                  
+      "author": "Ginger Thompson",
+                  
+      "datepublished": "2018-11-27",
+                  
+      "headline": "Families Are Still Being Separated at the Border,
+                   Months…",
+                  
+      "inlanguage": "en",
+                  
+      "geo.region": "New York",
+                  
+      "geo.position": "40.725395,
+                  -74.0048036",
+                  
+      "icbm": "40.725395,
+                  -74.0048036",
+                  
+      "geo.placename": "ProPublica",
+                  
+      "dcterms.identifier": "https://www.propublica.org/article/border-patrol-families-still-being-separated-at-border-after-zero-tolerance-immigration-policy-reversed",
+                  
+      "dcterms.format": "text/html",
+                  
+      "dcterms.relation": "ProPublica",
+                  
+      "dcterms.language": "en",
+                  
+      "dcterms.publisher": "ProPublica",
+                  
+      "dcterms.type": "text/html",
+                  
+      "dcterms.coverage": "https://www.propublica.org/",
+                  
+      "dcterms.rights": "Copyright ©2018 ProPublica.",
+                  
+      "dcterms.title": "Families Are Still Being Separated at the Border,
+                   Months…",
+                  
+      "dcterms.subject": "immigration,
+                   explanation,
+                   they’re,
+                   kids,
+                   criminal,
+                   dads,
+                   moms,
+                   lawyers,
+                   border,
+                   agents,
+                   children,
+                   parents,
+                   it’s,
+                   zero,
+                   tolerance",
+                  
+      "dcterms.contributor": "Ginger Thompson",
+                  
+      "dcterms.date": "2018-11-27",
+                  
+      "dcterms.description": "Immigration lawyers say border agents are again removing children from their parents. The explanation? They’re protecting kids from criminal dads and moms.…",
+                  
+      "fb:profile_id": "13320939444",
+                  
+      "fb:app_id": "229862657130557",
+                  
+      "og:type": "website",
+                  
+      "og:locale": "en_us",
+                  
+      "og:url": "https://www.propublica.org/article/border-patrol-families-still-being-separated-at-border-after-zero-tolerance-immigration-policy-reversed",
+                  
+      "og:title": "Families Are Still Being Separated at the Border,
+                   Months After “Zero Tolerance” Was Reversed — ProPublica",
+                  
+      "og:description": "Immigration lawyers say border agents are again removing children from their parents. The explanation? They’re protecting kids from criminal dads and moms. Immigration advocates say it’s zero tolerance by another name.",
+                  
+      "og:image": "https://assets.propublica.org/images/articles/20181102-border-separations-1200x630.jpg?1543355147",
+                  
+      "og:site_name": "ProPublica",
+                  
+      "og:see_also": "https://twitter.com/propublica",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@propublica",
+                  
+      "twitter:creator": "@propublica",
+                  
+      "twitter:title": "Families Are Still Being Separated at the Border,
+                   Months After “Zero Tolerance” Was Reversed — ProPublica",
+                  
+      "twitter:description": "Immigration lawyers say border agents are again removing children from their parents. The explanation? They’re protecting kids from criminal dads and moms. Immigration advocates say it’s zero tolerance by another name.",
+                  
+      "twitter:image": "https://assets.propublica.org/images/articles/20181102-border-separations-1200x630.jpg?1543355147",
+                  
+      "application-name": "ProPublica",
+                  
+      "msapplication-tilecolor": "#FFFFFF",
+                  
+      "msapplication-tileimage": "https://assets.propublica.org/prod/v3/images/mstile-144x144.png",
+                  
+      "msapplication-square70x70logo": "https://assets.propublica.org/prod/v3/images/mstile-70x70.png",
+                  
+      "msapplication-square150x150logo": "https://assets.propublica.org/prod/v3/images/mstile-150x150.png",
+                  
+      "msapplication-wide310x150logo": "https://assets.propublica.org/prod/v3/images/mstile-310x150.png",
+                  
+      "msapplication-square310x310logo": "https://assets.propublica.org/prod/v3/images/mstile-310x310.png"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://assets.propublica.org/images/articles/20181102-border-separations-1200x630.jpg?1543355147"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}

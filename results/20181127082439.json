@@ -1,0 +1,284 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.allsides.com/unbiased-balanced-news",
+            
+    "totalResults": "1",
+            
+    "searchTerms": "site:https://www.allsides.com/unbiased-balanced-news",
+            
+    "count": 1,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.318239,
+      
+  "formattedSearchTime": "0.32",
+      
+  "totalResults": "1",
+      
+  "formattedTotalResults": "1"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "AllSides | Balanced news via media bias ratings for an unbiased ...",
+         
+   "htmlTitle": "AllSides | Balanced news via media bias ratings for an unbiased ...",
+         
+   "link": "https://www.allsides.com/unbiased-balanced-news",
+         
+   "displayLink": "www.allsides.com",
+         
+   "snippet": "We use media bias ratings to provide balanced news,
+          perspectives and issues \nacross the political spectrum. There is no such thing as unbiased news or truly ...",
+         
+   "htmlSnippet": "We use media bias ratings to provide balanced news,
+          perspectives and issues \u003cbr\u003e\nacross the political spectrum. There is no such thing as unbiased news or truly&nbsp;...",
+         
+   "cacheId": "lgqFGBNyGsIJ",
+         
+   "formattedUrl": "https://www.allsides.com/unbiased-balanced-news",
+         
+   "htmlFormattedUrl": "https://www.allsides.com/unbiased-balanced-news",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXVq1RfgcDahuFHm49MArCWVoSBgBWVJF4pwheAVFqpO--YPlO7gP-Ot8"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "abstract": "Get balanced news with media bias revealed. Non-partisan,
+                   crowd-sourced technology shows all sides so you can decide.",
+                  
+      "og:type": "website",
+                  
+      "og:site_name": "AllSides",
+                  
+      "og:title": "AllSides | Balanced news via media bias ratings for an unbiased news perspective",
+                  
+      "og:url": "https://www.allsides.com/unbiased-balanced-news",
+                  
+      "og:description": "See issues and political news with news bias revealed. Non-partisan,
+                   crowd-sourced technology shows all sides so you can decide.",
+                  
+      "og:updated_time": "2018-02-28T13:53:47-08:00",
+                  
+      "og:image": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png",
+                  
+      "og:image:type": "image/png",
+                  
+      "og:image:width": "1200",
+                  
+      "og:image:height": "630",
+                  
+      "twitter:card": "summary",
+                  
+      "og:region": "CA",
+                  
+      "og:country_name": "United States",
+                  
+      "twitter:title": "AllSides",
+                  
+      "twitter:url": "https://www.allsides.com/unbiased-balanced-news",
+                  
+      "twitter:description": "Balanced news via media bias ratings for an unbiased news perspective",
+                  
+      "twitter:image": "https://www.allsides.com/sites/all/themes/allsides/images/allsides-facebook-app-logo-big.png",
+                  
+      "twitter:image:alt": "AllSides Icon",
+                  
+      "article:published_time": "2017-11-15T14:39:40-08:00",
+                  
+      "article:modified_time": "2018-02-28T13:53:47-08:00",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "mobileoptimized": "width",
+                  
+      "handheldfriendly": "true",
+                  
+      "apple-mobile-web-app-capable": "yes"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}

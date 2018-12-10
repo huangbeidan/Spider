@@ -1,0 +1,1016 @@
+{
+   
+ "kind": "customsearch#search",
+   
+ "url": {
+      
+  "type": "application/json",
+      
+  "template": "https://www.googleapis.com/customsearch/v1?q={
+         searchTerms
+      }
+&num={
+         count?
+      }
+&start={
+         startIndex?
+      }
+&lr={
+         language?
+      }
+&safe={
+         safe?
+      }
+&cx={
+         cx?
+      }
+&sort={
+         sort?
+      }
+&filter={
+         filter?
+      }
+&gl={
+         gl?
+      }
+&cr={
+         cr?
+      }
+&googlehost={
+         googleHost?
+      }
+&c2coff={
+         disableCnTwTranslation?
+      }
+&hq={
+         hq?
+      }
+&hl={
+         hl?
+      }
+&siteSearch={
+         siteSearch?
+      }
+&siteSearchFilter={
+         siteSearchFilter?
+      }
+&exactTerms={
+         exactTerms?
+      }
+&excludeTerms={
+         excludeTerms?
+      }
+&linkSite={
+         linkSite?
+      }
+&orTerms={
+         orTerms?
+      }
+&relatedSite={
+         relatedSite?
+      }
+&dateRestrict={
+         dateRestrict?
+      }
+&lowRange={
+         lowRange?
+      }
+&highRange={
+         highRange?
+      }
+&searchType={
+         searchType
+      }
+&fileType={
+         fileType?
+      }
+&rights={
+         rights?
+      }
+&imgSize={
+         imgSize?
+      }
+&imgType={
+         imgType?
+      }
+&imgColorType={
+         imgColorType?
+      }
+&imgDominantColor={
+         imgDominantColor?
+      }
+&alt=json"
+ 
+   },
+   
+ "queries": {
+      
+  "request": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.politifact.com/",
+            
+    "totalResults": "12",
+            
+    "searchTerms": "site:https://www.politifact.com/",
+            
+    "count": 10,
+            
+    "startIndex": 1,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ],
+      
+  "nextPage": [
+         
+   {
+            
+    "title": "Google Custom Search - site:https://www.politifact.com/",
+            
+    "totalResults": "12",
+            
+    "searchTerms": "site:https://www.politifact.com/",
+            
+    "count": 10,
+            
+    "startIndex": 11,
+            
+    "inputEncoding": "utf8",
+            
+    "outputEncoding": "utf8",
+            
+    "safe": "off",
+            
+    "cx": "002464989021538692093:kwh17neen_y",
+            
+    "dateRestrict": "d1"
+   
+         }
+
+  
+      ]
+
+ 
+   },
+   
+ "context": {
+      
+  "title": "10Facts"
+ 
+   },
+   
+ "searchInformation": {
+      
+  "searchTime": 0.295594,
+      
+  "formattedSearchTime": "0.30",
+      
+  "totalResults": "12",
+      
+  "formattedTotalResults": "12"
+ 
+   },
+   
+ "items": [
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "PolitiFact: Fact-checking US politics",
+         
+   "htmlTitle": "PolitiFact: Fact-checking US politics",
+         
+   "link": "https://www.politifact.com/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "PolitiFact is a fact-checking website that rates the accuracy of claims by elected \nofficials and others on its Truth-O-Meter.",
+         
+   "htmlSnippet": "PolitiFact is a fact-checking website that rates the accuracy of claims by elected \u003cbr\u003e\nofficials and others on its Truth-O-Meter.",
+         
+   "cacheId": "GpwNe-gKsLMJ",
+         
+   "formattedUrl": "https://www.politifact.com/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "224",
+                  
+      "height": "224",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxcjpHQc_Nb9OD9PFy7ooZjvQMgE80Jfzj6rfYQBUTR8X_P3AGQfD3aBbv"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "og:title": "Fact-checking U.S. politics | PolitiFact",
+                  
+      "og:type": "website",
+                  
+      "og:url": "/truth-o-meter/",
+                  
+      "og:image": "//s3.amazonaws.com/static.politifact.com/rulings%2Ftom-true.gif",
+                  
+      "og:site_name": "PolitiFact",
+                  
+      "fb:admins": "750116788",
+                  
+      "og:description": "Fact-checking U.S. politics",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/rulings/tom-mostlyfalse.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Clean Virginia's file | PolitiFact Virginia",
+         
+   "htmlTitle": "Clean Virginia&#39;s file | PolitiFact Virginia",
+         
+   "link": "https://www.politifact.com/personalities/clean-virginia/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Clean Virginia is a non-profit organization seeking to overhaul the state's system \nof regulating power companies,
+          which it says is \"corrupt,
+         \" and \"rigged\" against ...",
+         
+   "htmlSnippet": "Clean Virginia is a non-profit organization seeking to overhaul the state&#39;s system \u003cbr\u003e\nof regulating power companies,
+          which it says is &quot;corrupt,
+         &quot; and &quot;rigged&quot; against&nbsp;...",
+         
+   "cacheId": "60f69K3IonwJ",
+         
+   "formattedUrl": "https://www.politifact.com/personalities/clean-virginia/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/personalities/clean-virginia/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "310",
+                  
+      "height": "163",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVGgIYftgPyl5wKO5ENCBCIqmBJUxGs7trqXe7UyQalozs2820pFyrZ3mc"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "fb:app_id": "106379906558",
+                  
+      "og:title": "Clean Virginia's file",
+                  
+      "og:type": "profile",
+                  
+      "og:url": "//www.politifact.com/personalities/clean-virginia/",
+                  
+      "og:image": "//s3.amazonaws.com/static.politifact.com/images/social/facebook_og_img.png",
+                  
+      "og:site_name": "@politifact",
+                  
+      "og:description": "Clean Virginia's statements by ruling.",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "PolitiFactVirginia",
+                  
+      "twitter:title": "Clean Virginia's file",
+                  
+      "twitter:description": "Clean Virginia's statements by ruling.",
+                  
+      "twitter:url": "//www.politifact.com/personalities/clean-virginia/",
+                  
+      "twitter:image": "https://s3.amazonaws.com/static.politifact.com/politifact/mugs/CleanVA.jpg",
+                  
+      "twitter:username": "PolitiFactVA",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/images/social/facebook_og_img.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Steve Daines's file | PolitiFact",
+         
+   "htmlTitle": "Steve Daines&#39;s file | PolitiFact",
+         
+   "link": "https://www.politifact.com/personalities/steve-daines/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Our Steve Daines feeds. A feed of statements by Daines · A feed of stories \nmentioning Daines. Recent statements made by Steve Daines. Mostly False.",
+         
+   "htmlSnippet": "Our Steve Daines feeds. A feed of statements by Daines &middot; A feed of stories \u003cbr\u003e\nmentioning Daines. Recent statements made by Steve Daines. Mostly False.",
+         
+   "cacheId": "iFlzlm7fEZwJ",
+         
+   "formattedUrl": "https://www.politifact.com/personalities/steve-daines/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/personalities/steve-daines/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "80",
+                  
+      "height": "80",
+                  
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU0qxF46n1RszfK7moeneFAXWPpBohBOe0q32DA_pZTpwQQbfOprcMAQ"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "fb:app_id": "106379906558",
+                  
+      "og:title": "Steve Daines's file",
+                  
+      "og:type": "profile",
+                  
+      "og:url": "//www.politifact.com/personalities/steve-daines/",
+                  
+      "og:image": "//s3.amazonaws.com/static.politifact.com/images/social/facebook_og_img.png",
+                  
+      "og:site_name": "@politifact",
+                  
+      "og:description": "Steve Daines's statements by ruling.",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "PolitiFact",
+                  
+      "twitter:title": "Steve Daines's file",
+                  
+      "twitter:description": "Steve Daines's statements by ruling.",
+                  
+      "twitter:url": "//www.politifact.com/personalities/steve-daines/",
+                  
+      "twitter:image": "https://s3.amazonaws.com/static.politifact.com/politifact/mugs/Screen_Shot_2018-11-27_at_12.04.29_PM.png",
+                  
+      "twitter:username": "PolitiFact",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/politifact/mugs/Screen_Shot_2018-11-27_at_12.04.29_PM.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "PolitiFact | Beyond the Truth-O-Meter",
+         
+   "htmlTitle": "PolitiFact | Beyond the Truth-O-Meter",
+         
+   "link": "https://www.politifact.com/curation/national/archive/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Beyond the Truth-O-Meter. What's Happening On The U.S.-Mexico Border? NPR,
+          \nTuesday,
+          November 27th,
+          2018 at 9:00 a.m.. The situation at the San Ysidro ...",
+         
+   "htmlSnippet": "Beyond the Truth-O-Meter. What&#39;s Happening On The U.S.-Mexico Border? NPR,
+          \u003cbr\u003e\nTuesday,
+          November 27th,
+          2018 at 9:00 a.m.. The situation at the San Ysidro&nbsp;...",
+         
+   "cacheId": "Vg2GOX-idNEJ",
+         
+   "formattedUrl": "https://www.politifact.com/curation/national/archive/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/curation/national/archive/",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "All Half-True statements involving Clean Virginia | PolitiFact Virginia",
+         
+   "htmlTitle": "All Half-True statements involving Clean Virginia | PolitiFact Virginia",
+         
+   "link": "https://www.politifact.com/personalities/clean-virginia/statements/byruling/half-true/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Keep up to date with PolitiFact Virginia. On Facebook · On Twitter · Via RSS · Put \na PolitiFact Virginia widget on your blog or website. Back to top ...",
+         
+   "htmlSnippet": "Keep up to date with PolitiFact Virginia. On Facebook &middot; On Twitter &middot; Via RSS &middot; Put \u003cbr\u003e\na PolitiFact Virginia widget on your blog or website. Back to top&nbsp;...",
+         
+   "cacheId": "ZIYPOyw3tmYJ",
+         
+   "formattedUrl": "https://www.politifact.com/personalities/clean-virginia/.../half-true/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/personalities/clean-virginia/.../half-true/",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "All statements involving Steve Daines | PolitiFact",
+         
+   "htmlTitle": "All statements involving Steve Daines | PolitiFact",
+         
+   "link": "https://www.politifact.com/personalities/steve-daines/statements/?list=speaker",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Sanctuary jurisdictions \"violate the laws of our nation.\" — PolitiFact National on \nTuesday,
+          November 27th,
+          2018. Page 1 of 1. Advertisement ...",
+         
+   "htmlSnippet": "Sanctuary jurisdictions &quot;violate the laws of our nation.&quot; — PolitiFact National on \u003cbr\u003e\nTuesday,
+          November 27th,
+          2018. Page 1 of 1. Advertisement&nbsp;...",
+         
+   "cacheId": "nHTgrrpZG4gJ",
+         
+   "formattedUrl": "https://www.politifact.com/personalities/steve-daines/statements/?...",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/personalities/steve-daines/statements/?...",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "All statements involving Clean Virginia | PolitiFact",
+         
+   "htmlTitle": "All statements involving Clean Virginia | PolitiFact",
+         
+   "link": "https://www.politifact.com/personalities/clean-virginia/statements/?list=speaker",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "\"Virginians pay the 11th-highest power bills in the nation.\" — PolitiFact Virginia \non Tuesday,
+          November 27th,
+          2018. Page 1 of 1. Advertisement ...",
+         
+   "htmlSnippet": "&quot;Virginians pay the 11th-highest power bills in the nation.&quot; — PolitiFact Virginia \u003cbr\u003e\non Tuesday,
+          November 27th,
+          2018. Page 1 of 1. Advertisement&nbsp;...",
+         
+   "cacheId": "komD6jTiUN4J",
+         
+   "formattedUrl": "https://www.politifact.com/personalities/clean-virginia/statements/?...",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/personalities/clean-virginia/statements/?...",
+         
+   "pagemap": {
+            
+    "metatags": [
+               
+     {
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432",
+                  
+      "fb:admins": "750116788"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Fact-checking Donald Trump's statement on Saudi Arabia ...",
+         
+   "htmlTitle": "Fact-checking Donald Trump&#39;s statement on Saudi Arabia ...",
+         
+   "link": "https://www.politifact.com/truth-o-meter/article/2018/nov/27/fact-checking-donald-trumps-statement-saudi-arabia/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "President Donald Trump's view that the murder of Saudi journalist Jamal \nKhashoggi should not touch U.S.-Saudi relations isn't being well-received by his \nfellow ...",
+         
+   "htmlSnippet": "President Donald Trump&#39;s view that the murder of Saudi journalist Jamal \u003cbr\u003e\nKhashoggi should not touch U.S.-Saudi relations isn&#39;t being well-received by his \u003cbr\u003e\nfellow&nbsp;...",
+         
+   "cacheId": "5RR7Xj0qdJIJ",
+         
+   "formattedUrl": "https://www.politifact.com/.../fact-checking-donald-trumps-statement-saudi- arabia/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/.../fact-checking-donald-trumps-statement-saudi- arabia/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "250",
+                  
+      "height": "201",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO1hRdDEVUYbqFk6erIGMQy6uq8lyL0Za4gljreA5xyv-JdqhEha46FxVE"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "fb:app_id": "106379906558",
+                  
+      "og:title": "Fact-checking Donald Trump's statement on Saudi Arabia",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.politifact.com/truth-o-meter/article/2018/nov/27/fact-checking-donald-trumps-statement-saudi-arabia/",
+                  
+      "og:image": "https://s3.amazonaws.com/static.politifact.com/politifact/photos/Screen_Shot_2018-11-26_at_4.39.07_PM.png",
+                  
+      "og:site_name": "PolitiFact",
+                  
+      "fb:admins": "750116788",
+                  
+      "og:description": "President Donald Trump’s view that the murder of Saudi journalist Jamal Khashoggi should not touch U.S.-Saudi relations isn’t being well-received by his fellow Republicans. For example,
+                   Trump cast doubt over the CIA’s conclusion that Saudi crown prince Mohammed bin Salman ordered the killing. Sen. Mike Lee,
+                   R-Utah,
+                   said he disagreed with Trump.",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@politifact",
+                  
+      "twitter:url": "//www.politifact.com/truth-o-meter/article/2018/nov/27/fact-checking-donald-trumps-statement-saudi-arabia/",
+                  
+      "twitter:username": "PolitiFact",
+                  
+      "twitter:title": "Fact-checking Donald Trump's statement on Saudi Arabia,
+                   Khashoggi murder",
+                  
+      "twitter:description": "President Donald Trump&rsquo;s view that the murder of Saudi journalist Jamal Khashoggi should not touch U.S.-Saudi relations isn&rsquo;t being well-received by his fellow Republicans. For example,
+                   Trump cast doubt over the CIA&rsquo;s conclusion that Saudi crown prince Mohammed bin Salman ordered the killing. Sen. Mike Lee,
+                   R-Utah,
+                   said he disagreed with Trump. &quot;The intelligence I&rsquo;ve seen suggests that this was ordered by the crown prince,
+                  &quot; Lee said on NBC News&rsquo; Meet the Press Nov. 25. Sen. Joni Ernst,
+                   R-Iowa,
+                   was more cautious,
+                   but she told CNN&rsquo;s State of the Union that &quot;when it becomes necessary,
+                   the president also needs to ...",
+                  
+      "twitter:image": "//s3.amazonaws.com/static.politifact.com/images/twitter-meter.png",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/politifact/photos/Screen_Shot_2018-11-26_at_4.39.07_PM.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "It's #GivingNewsDay! Every dollar you donate to PolitiFact is now ...",
+         
+   "htmlTitle": "It&#39;s #GivingNewsDay! Every dollar you donate to PolitiFact is now ...",
+         
+   "link": "https://www.politifact.com/truth-o-meter/article/2018/nov/27/its-givingnewsday-every-dollar-you-donate-politifa/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "This is big. Thanks to a generous donation from one of our supporters,
+          every \ndollar you donate to PolitiFact now through Dec. 31 is tripled. That's right. Tripled!",
+         
+   "htmlSnippet": "This is big. Thanks to a generous donation from one of our supporters,
+          every \u003cbr\u003e\ndollar you donate to PolitiFact now through Dec. 31 is tripled. That&#39;s right. Tripled!",
+         
+   "cacheId": "b8CddYjp_fMJ",
+         
+   "formattedUrl": "https://www.politifact.com/.../its-givingnewsday-every-dollar-you-donate- politifa/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/.../its-givingnewsday-every-dollar-you-donate- politifa/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "237",
+                  
+      "height": "212",
+                  
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVv52l9C9-0Wdbf1iFmC52nIhGWM3d1BzadEI5jxxEy1zlxy0B3w4kquM"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "fb:app_id": "106379906558",
+                  
+      "og:title": "It's #GivingNewsDay! Donations to PolitiFact are tripled",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.politifact.com/truth-o-meter/article/2018/nov/27/its-givingnewsday-every-dollar-you-donate-politifa/",
+                  
+      "og:image": "//s3.amazonaws.com/static.politifact.com/rulings/og/logo-meter.png",
+                  
+      "og:site_name": "PolitiFact",
+                  
+      "fb:admins": "750116788",
+                  
+      "og:description": "This is big. Thanks to a generous donation from one of our supporters,
+                   every dollar you donate to PolitiFact now through Dec. 31 is tripled. That's right. Tripled! For a small nonprofit newsroom like ours,
+                   these donations make the difference for us. Can we count on your support so we can keep holding politicians accountable? MAKE A ONE-TIME DONATION TO POLITIFACT MAKE A MONTHLY DONATION TO POLITIFACT We can't do this without you. We do this for you. So please consider supporting PolitiFact's mission of truth in politics. Your donation is being matched thanks to the generosity of NewsMatch,
+                   a ...",
+                  
+      "twitter:card": "summary_large_image",
+                  
+      "twitter:site": "@politifact",
+                  
+      "twitter:url": "//www.politifact.com/truth-o-meter/article/2018/nov/27/its-givingnewsday-every-dollar-you-donate-politifa/",
+                  
+      "twitter:username": "PolitiFact",
+                  
+      "twitter:title": "It's #GivingNewsDay! Every dollar you donate to PolitiFact is now tripled",
+                  
+      "twitter:description": "This is big. Thanks to a generous donation from one of our supporters,
+                   every dollar you donate to PolitiFact now through Dec. 31 is tripled. That&#39;s right. Tripled! For a small nonprofit newsroom like ours,
+                   these donations make the difference for us.&nbsp;Can we count on your support so we can keep holding politicians accountable? MAKE A ONE-TIME DONATION TO POLITIFACT MAKE A MONTHLY DONATION TO POLITIFACT We can&#39;t do this without you. We do this for you. So please consider&nbsp;supporting PolitiFact&#39;s mission&nbsp;of truth in politics.&nbsp; Your donation is being matched thanks to the generosity of&nbsp;NewsMatch,
+                   a community-wide effort to support ...",
+                  
+      "twitter:image": "//s3.amazonaws.com/static.politifact.com/images/twitter-meter.png",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/rulings/og/logo-meter.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      },
+      
+  {
+         
+   "kind": "customsearch#result",
+         
+   "title": "Clean Virginia tells half the story about state's high energy bills ...",
+         
+   "htmlTitle": "Clean Virginia tells half the story about state&#39;s high energy bills ...",
+         
+   "link": "https://www.politifact.com/virginia/statements/2018/nov/27/clean-virginia/clean-virginia-tells-half-story-about-states-high-/",
+         
+   "displayLink": "www.politifact.com",
+         
+   "snippet": "Virginians pay high power bills largely because the state's regulatory system is \"\nrigged,
+         \" in favor of energy companies,
+          according to Clean Virginia,
+          an advocacy ...",
+         
+   "htmlSnippet": "Virginians pay high power bills largely because the state&#39;s regulatory system is &quot;\u003cbr\u003e\nrigged,
+         &quot; in favor of energy companies,
+          according to Clean Virginia,
+          an advocacy&nbsp;...",
+         
+   "cacheId": "I77I90HeIOQJ",
+         
+   "formattedUrl": "https://www.politifact.com/.../clean-virginia-tells-half-story-about-states-high -/",
+         
+   "htmlFormattedUrl": "https://www.politifact.com/.../clean-virginia-tells-half-story-about-states-high -/",
+         
+   "pagemap": {
+            
+    "cse_thumbnail": [
+               
+     {
+                  
+      "width": "224",
+                  
+      "height": "224",
+                  
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-JbzqlU91MQmEYFYLG39duBQVhxXx_lrdcbvu2ZHBqi-0oIEfDxh3WjU"
+     
+               }
+
+    
+            ],
+            
+    "metatags": [
+               
+     {
+                  
+      "fb:app_id": "106379906558",
+                  
+      "og:title": "Clean Virginia tells half the story about state's high energy bills",
+                  
+      "og:type": "article",
+                  
+      "og:url": "https://www.politifact.com/virginia/statements/2018/nov/27/clean-virginia/clean-virginia-tells-half-story-about-states-high-/",
+                  
+      "og:image": "https://s3.amazonaws.com/static.politifact.com/rulings/tom-halftrue.png",
+                  
+      "og:image:width": "600",
+                  
+      "og:image:height": "600",
+                  
+      "og:site_name": "@politifact",
+                  
+      "fb:admins": "750116788",
+                  
+      "og:description": "Virginians pay high power bills largely because the state’s regulatory system is",
+                  
+      "twitter:card": "summary",
+                  
+      "twitter:site": "PolitiFactVirginia",
+                  
+      "twitter:url": "https://www.politifact.com/virginia/statements/2018/nov/27/clean-virginia/clean-virginia-tells-half-story-about-states-high-/",
+                  
+      "twitter:username": "PolitiFactVA",
+                  
+      "twitter:title": "Clean Virginia tells half the story about state's high energy bills",
+                  
+      "twitter:description": "Virginians pay high power bills largely because the state&rsquo;s regulatory system is &quot;rigged,
+                  &quot; in favor of energy companies,
+                   according to Clean Virginia,
+                   an advocacy group seeking reforms. &nbsp; The group notes on its website that the state&rsquo;s two dominant power companies - Dominion Energy and Appalachian Power Co.,
+                   who,
+                   together provide 82 percent of Virginia&rsquo;s power and have contributed $12 million to state candidates since 1996 - have had a major role in writing the laws that regulate them. As a result,
+                   &quot;Virginians pay the 11th-highest power bills in the nation,
+                  &quot; Clean Virginia says. We wondered whether that ranking is ...",
+                  
+      "twitter:image": "https://s3.amazonaws.com/static.politifact.com/rulings/tom-halftrue.png",
+                  
+      "viewport": "width=device-width,
+                   initial-scale=1.0",
+                  
+      "fb:pages": "61308923432"
+     
+               }
+
+    
+            ],
+            
+    "cse_image": [
+               
+     {
+                  
+      "src": "https://s3.amazonaws.com/static.politifact.com/rulings/tom-halftrue.png"
+     
+               }
+
+    
+            ]
+
+   
+         }
+
+  
+      }
+
+ 
+   ]
+
+
+}
