@@ -39,6 +39,7 @@ public class CSEOneStep {
 //         //MODIFY the get parameters at GETgenerator
         List<String> seeds = GETgenerator.GETseeds(GETgenerator.readurl("rawurl.txt"));
 
+        //To save correctly, these files are named by dates/
         for (String url:seeds){
             String json = HttpTest.getHttpResult(url);
             Random rand = new Random();
@@ -62,7 +63,7 @@ public class CSEOneStep {
         // delete the .DS_store first: find . -name ".DS_Store" -delete (in directory)
         extracturl.createFile("result",alllinks);
 
-//         Step four: nutch craw result, do it in terminal, remember to point the path to spider
+//         Step four: nutch crawl result, do it in terminal, remember to point the path to spider
 //         bin/crawl -i -s /Users/beidan/Spider/final_urls.txt 10Facts/  1
 //         Step five: Convert the index result into Json in terminal
 //         cd solr-import-export-json
