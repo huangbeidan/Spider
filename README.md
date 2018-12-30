@@ -1,10 +1,8 @@
 ---
 
-San Diego Supercomputer Center
-=========
-## Web Crawling Project - Spyder
+## Web Crawling Project - Spyder - San Diego Supercomputer Center
 
-Main Document can be found in Spider/src/com/example/CSEOneStep.java
+**Main Document can be found in Spider/src/com/example/CSEOneStep.java**
 
 Main functions:
 
